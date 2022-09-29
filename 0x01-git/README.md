@@ -1,2 +1,2 @@
-my second commit
-up_to_date
+ Updated README file my second commit
+
